@@ -1,7 +1,7 @@
 {
-  "name": "omtv-react-input",
-  "version": "1.0.6",
-  "description": "React input component",
+  "name": "my-component",
+  "version": "1.0.0",
+  "description": "My Component",
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack --mode production --env.MODE=production",
@@ -14,7 +14,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oleh-Matviiv/omtv-react-input.git"
+    "url": "git@github.com:Oleh-Matviiv/omtv-template-npm-react-component.git"
   },
   "dependencies": {},
   "peerDependencies": {
@@ -51,7 +51,7 @@
     "input"
   ],
   "bugs": {
-    "url": "https://github.com/Oleh-Matviiv/omtv-react-input/issues"
+    "url": "https://github.com/Oleh-Matviiv/omtv-template-npm-react-component/issues"
   },
-  "homepage": "https://github.com/Oleh-Matviiv/omtv-react-input#readme"
+  "homepage": "https://github.com/Oleh-Matviiv/omtv-template-npm-react-component#readme"
 }
