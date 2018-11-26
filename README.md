@@ -1,4 +1,5 @@
 Teamplate project for publishing react component to npm.
+
 Contains local demo app.
 
 # Start component development
@@ -11,5 +12,5 @@ Contains local demo app.
 2. Run `npm publish`
 
 # Some useful articles to refer in case of troubles:
-[How to package your React Component for distribution via NPM](https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f)
-[A guide to building a React component with webpack 4, publishing to npm, and deploying the demo to GitHub Pages](https://medium.com/dailyjs/building-a-react-component-with-webpack-publish-to-npm-deploy-to-github-guide-6927f60b3220)
+* [How to package your React Component for distribution via NPM](https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f)
+* [A guide to building a React component with webpack 4, publishing to npm, and deploying the demo to GitHub Pages](https://medium.com/dailyjs/building-a-react-component-with-webpack-publish-to-npm-deploy-to-github-guide-6927f60b3220)
