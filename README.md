@@ -3,8 +3,8 @@ Teamplate project for publishing react component to npm.
 Contains local demo app.
 
 # Start component development
-1. Start webpack dev server for demo project `npm run bemo`
-2. Build demo app and the component in development mode `npm run build:dev`
+1. Start webpack dev server for demo project `npm run bemo`.
+2. Start component build with `npm run start`.
 3. Develop your component.
 
 # Publish react component to npm

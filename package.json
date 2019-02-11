@@ -6,6 +6,7 @@
   "scripts": {
     "build": "webpack --mode production --env.MODE=production",
     "build:dev": "webpack --mode development --env.MODE=development",
+    "start": "webpack --watch --mode development --env.MODE=development",
     "demo": "webpack-dev-server --mode development",
     "test": "jest",
     "prepublishOnly": "npm run build"
