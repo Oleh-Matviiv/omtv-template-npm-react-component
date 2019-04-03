@@ -26,10 +26,10 @@ module.exports = env => {
           use: {
             loader: 'babel-loader',
             options: {
-              presets: ['babel-preset-env'],
+              presets: ['@babel/preset-env'],
               plugins: [
-                "transform-class-properties",
-                "transform-object-rest-spread"
+                "@babel/proposal-class-properties",
+                "@babel/proposal-object-rest-spread"
               ],
             },
           },
