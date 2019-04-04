@@ -16,6 +16,7 @@ module.exports = env => {
       library: pkg.name,
       libraryTarget: 'umd',
       publicPath: '/dist/',
+      globalObject: 'this',
       umdNamedDefine: true
     },
     module: {
