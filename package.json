@@ -5,11 +5,12 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack --mode production --env.MODE=production",
+    "build:mjs": ". ./scripts/mjs.sh",
     "build:dev": "webpack --mode development --env.MODE=development",
     "start": "webpack --watch --mode development --env.MODE=development",
     "demo": "webpack-dev-server --mode development",
     "test": "jest",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run test; npm run build; npm run build:mjs"
   },
   "author": "Oleh Matviiv",
   "license": "ISC",
