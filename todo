@@ -1,3 +1,6 @@
+[-] put styled-components in peer and dev dependencies
+[-] put jest-styled-components in dev dependencies
 
 ------------------------------------done---------------------------------------
 
+[done] add README-COMPONENT.md and replace README.md with it in init.sh

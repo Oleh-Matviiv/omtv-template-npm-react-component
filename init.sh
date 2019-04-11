@@ -6,19 +6,19 @@ cp -rf ./scripts $1/
 echo ==copy src folder
 cp -rf ./src $1/
 echo ==copy .babelrc
-cp -rf ./.babelrc $1/
+cp ./.babelrc $1/
 echo ==copy .gitignore
-cp -rf ./.gitignore $1/
+cp ./.gitignore $1/
 echo ==copy .npmignore
-cp -rf ./.npmignore $1/
+cp ./.npmignore $1/
 echo ==copy README.md
-cp -rf ./README.md $1/
+cp ./README-COMPONENT.md $1/README.md
 echo ==copy releases.md
-cp -rf ./releases.md $1/
+cp ./releases.md $1/
 echo ==copy todo
-cp -rf ./todo $1/
+cp ./todo $1/
 echo ==copy webpack.config.js
-cp -rf ./webpack.config.js $1/
+cp ./webpack.config.js $1/
 echo ==copy package.json
-cp -rf ./package.json $1/
+cp ./package.json $1/
 echo "==DON'T forget to update package.json with new component related data"
