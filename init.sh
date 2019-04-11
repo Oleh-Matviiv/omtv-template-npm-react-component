@@ -16,7 +16,7 @@ cp ./README-COMPONENT.md $1/README.md
 echo ==copy releases.md
 cp ./releases.md $1/
 echo ==copy todo
-cp ./todo $1/
+cp ./todo-component $1/todo
 echo ==copy webpack.config.js
 cp ./webpack.config.js $1/
 echo ==copy package.json

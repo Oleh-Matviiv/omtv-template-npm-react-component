@@ -1,6 +1,7 @@
 
 ------------------------------------done---------------------------------------
 
+[done] make separate clean todo-component and replace it in init.sh
 [done] put styled-components in peer and dev dependencies
 [done] put jest-styled-components in dev dependencies
 [done] add README-COMPONENT.md and replace README.md with it in init.sh
