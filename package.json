@@ -55,8 +55,7 @@
     "rootDir": "src"
   },
   "keywords": [
-    "react",
-    "input"
+    "react"
   ],
   "bugs": {
     "url": "https://github.com/Oleh-Matviiv/omtv-template-npm-react-component/issues"
