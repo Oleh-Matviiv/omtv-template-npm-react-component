@@ -11,8 +11,8 @@ Contains local demo app.
 1. Update package.json with your component data: `name, description, repository, bugs, homepage, author`
 2. Run `npm publish`
 
-# Component theming
-Theming is implemented using
+# Component theming approach
+Implement theming using
 [styled-components](https://www.styled-components.com/).
 A component declares in its prop types a list of wrappers that it uses to
 build a component's JSX sturcture:
