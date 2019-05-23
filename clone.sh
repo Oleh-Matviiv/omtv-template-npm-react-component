@@ -1,4 +1,4 @@
-echo initializing new component: $1
+echo cloning new component: $1
 echo ==copy demo folder
 cp -rf ./demo $1/
 echo ==copy scripts folder
